@@ -1,0 +1,10 @@
+build
+debug
+dist
+queuelogs
+.vscode
+*.inx
+*.log
+nbproject/Makefile-*
+nbproject/Package-*
+nbproject/private

@@ -1,0 +1,3 @@
+[submodule "libosdp"]
+	path = libosdp
+	url = .\\libosdp\\
